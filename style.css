@@ -1,0 +1,55 @@
+*{
+    font-family: Helvetica, sans-serif;
+    font-weight: 200;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.img{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    color:rgb(72, 6, 6);
+    background:rgb(243, 208, 204);
+    text-align: center;
+    font-family:Impact, 'Arial Narrow Bold', sans-serif;
+}
+
+h2{
+    color:rgb(50, 71, 12);
+    background-color: rgb(237, 242, 167);
+    font-weight: 400;
+}
+
+p{
+    color: rgb(10, 70, 97);
+    margin-left: auto;
+    margin-right: auto;
+    width:fit-content;
+ 
+}
+
+ul{
+    color:cadetblue;
+    background-color:rgb(229, 219, 248);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    list-style-position: inside;
+}
+
+ol{
+    background-color:rgb(227, 186, 157);
+    color: brown;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    list-style-position: inside;
+}
+
+a{
+    background-color:rgb(249, 247, 197);
+}
